@@ -1,0 +1,14 @@
+C:\Users\SS\Downloads\WindowsFormsApplication1-2\WindowsFormsApplication1\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\SS\Downloads\WindowsFormsApplication1-2\WindowsFormsApplication1\Datos\bin\Debug\Datos.dll
+C:\Users\SS\Downloads\WindowsFormsApplication1-2\WindowsFormsApplication1\Datos\bin\Debug\Datos.pdb
+C:\Users\SS\Downloads\WindowsFormsApplication1-2\WindowsFormsApplication1\Datos\bin\Debug\Entidades.dll
+C:\Users\SS\Downloads\WindowsFormsApplication1-2\WindowsFormsApplication1\Datos\bin\Debug\Entidades.pdb
+C:\Users\SS\Downloads\WindowsFormsApplication1-2\WindowsFormsApplication1\Datos\obj\Debug\Datos.dll
+C:\Users\SS\Downloads\WindowsFormsApplication1-2\WindowsFormsApplication1\Datos\obj\Debug\Datos.pdb
+C:\Users\SS\Desktop\WindowsFormsApplication1\Datos\bin\Debug\Datos.dll
+C:\Users\SS\Desktop\WindowsFormsApplication1\Datos\bin\Debug\Datos.pdb
+C:\Users\SS\Desktop\WindowsFormsApplication1\Datos\bin\Debug\Entidades.dll
+C:\Users\SS\Desktop\WindowsFormsApplication1\Datos\bin\Debug\Entidades.pdb
+C:\Users\SS\Desktop\WindowsFormsApplication1\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\SS\Desktop\WindowsFormsApplication1\Datos\obj\Debug\Datos.dll
+C:\Users\SS\Desktop\WindowsFormsApplication1\Datos\obj\Debug\Datos.pdb
